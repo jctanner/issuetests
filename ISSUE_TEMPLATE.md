@@ -1,6 +1,6 @@
 ##### Issue Type
 
-What kind of ticket is this?  You can say “Bug Report”, “Feature Idea”, “Feature Pull Request”, “New Module Pull Request”, “Bugfix Pull Request”, “Documentation Report”, or “Docs Pull Request”. (issuetype)
+What kind of ticket is this?  You can say “Bug Report”, “Feature Idea”, “Feature Pull Request”, “New Module Pull Request”, “Bugfix Pull Request”, “Documentation Report”, or “Docs Pull Request”.
 
 ##### Ansible Version
 
