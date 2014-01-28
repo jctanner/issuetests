@@ -1,29 +1,31 @@
-Ansible Issue Form
-==================
 
-Environment (can be omitted for non-OS specific feature requests)
------------------------------------------------------------------
+Environment 
+-----------
 
-Please supply the verbatim output from running “ansible --version”.  
+Please supply the verbatim output from running “ansible --version”. (version) 
 
 My answer:
 
-What OS are you running Ansible from?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris.  If this is a generic feature request or it doesn’t apply, just say “N/A”.  
+What OS are you running Ansible from?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris.  If this is a generic feature request or it doesn’t apply, just say “N/A”. (controlmachine)
 
 My answer:
 
-What OS are you managing relative to this ticket?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris. If this is a generic feature request or it doesn’t apply, just say “N/A”.  
+What OS are you managing relative to this ticket?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris. If this is a generic feature request or it doesn’t apply, just say “N/A”. (inventory)
 
 My answer:
 
-What kind of ticket is this?  You can say “Bug Report”, “Feature Idea”, “Feature Pull Request”, “New Module Pull Request”, “Bugfix Pull Request”, “Documentation Report”, or “Docs Pull Request”.  
+Summary
+-------
+
+What kind of ticket is this?  You can say “Bug Report”, “Feature Idea”, “Feature Pull Request”, “New Module Pull Request”, “Bugfix Pull Request”, “Documentation Report”, or “Docs Pull Request”. (issuetype)
 
 My answer:
 
-Description
-------------
+Please summarize your request in the space below.  You will earn bonus points for being succinct, but please add enough detail so we can understand the request. (description)
 
-Please summarize your request in the space below.  You will earn bonus points for being succinct, but please add enough detail so we can understand the request. My description:
+
+
+
 
 
 Steps To Reproduce
