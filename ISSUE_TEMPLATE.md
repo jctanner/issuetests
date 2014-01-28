@@ -6,18 +6,13 @@ What kind of ticket is this?  You can say “Bug Report”, “Feature Idea”, 
 
 Please supply the verbatim output from running “ansible --version”. 
 
-##### Control Host:
+##### Environment:
 
-What OS are you running Ansible from?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris.  If this is a generic feature request or it doesn’t apply, just say “N/A”. 
-
-##### Inventory Hosts:
-
-What OS are you managing relative to this ticket?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris. If this is a generic feature request or it doesn’t apply, just say “N/A”.
+What OS are you running Ansible from and what OS are you managing?  Examples include RHEL 5/6, Centos 5/6, Ubuntu 12.04/13.07, *BSD, Solaris.  If this is a generic feature request or it doesn’t apply, just say “N/A”. 
 
 ##### Summary:
 
 Please summarize your request in this space.  You will earn bonus points for being succinct, but please add enough detail so we can understand the request.
-
 
 ##### Steps To Reproduce:
 
@@ -29,8 +24,5 @@ Please enter your expected results in this space.  When running the steps suppli
 
 ##### Actual Results:
 
-Please enter your actual results in this space.  When running the steps supplied above, what actually happened?  If showing example output, indent your output by four spaces so it will render correctly in GitHub. My notes:
-
-
-
+Please enter your actual results in this space.  When running the steps supplied above, what actually happened?  If showing example output, indent your output by four spaces so it will render correctly in GitHub.
 
