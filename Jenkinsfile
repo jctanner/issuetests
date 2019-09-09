@@ -1,14 +1,18 @@
 pipeline {
-  agent { docker { image 'python:3.7.3' } }
+  agent { 
+      docker { 
+        image 'python:3.7.3' 
+      }
+  }
   stages {
     stage('build') {
       steps {
-        sh 'whoami; pip install -r requirements.txt'
+        sh 'virtualenv .venv; source .venv/bin/activate; pip install -r requirements.txt'
       }
     }
     stage('test') {
       steps {
-        sh 'pytest tests'
+        sh 'source .venv/bin/activate; pytest tests'
       }   
     }
   }
