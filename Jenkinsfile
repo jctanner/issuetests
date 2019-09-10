@@ -7,7 +7,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh 'apt-get update; apt-get install python-virtualenv; virtualenv --python=/usr/local/bin/python3; .venv; source .venv/bin/activate; pip install -r requirements.txt'
+        sh 'whoami; pwd; ls -al'
       }
     }
     stage('test') {
